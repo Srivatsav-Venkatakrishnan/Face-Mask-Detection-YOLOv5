@@ -55,7 +55,7 @@ python app.py --host localhost:3000 --weights=D:/Mini_project/face-mask-yolov5-m
 
 7. **Result/Output:**
 
-  To check the results open the results file which is uploaded above in the repository.
+     To check the results open the results file which is uploaded above in the repository.
    
 
 8. **License**
