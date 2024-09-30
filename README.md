@@ -47,16 +47,18 @@ python app.py --host localhost:3000 --weights=D:/Mini_project/face-mask-yolov5-m
    http://localhost:3000/
    
  6. **Model and Weights:**
-The model used for detection is based on YOLOv5s, Ensure the weights file is correctly linked in the commands above.
 
-To use the model in real time on your local environment download the model weights zip file and change the model weights path in test.py code and run to get the final output video.
+    The model used for detection is based on YOLOv5s, Ensure the weights file is correctly linked in the commands above.
+
+    To use the model in real time on your local environment download the model weights zip file and change the model weights path in test.py code and run to get the final 
+    output video.
 
 7. **Result/Output:**
 
   To check the results open the results file which is uploaded above in the repository.
    
 
-9. **License**
+8. **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
    
