@@ -1,6 +1,5 @@
 # Face Mask Detection-YOLOv5
 The system is designed to accurately detect and classify the presence or absence of face masks in live video feeds or images, enabling rapid response in health-sensitive environments. Leveraging the power of YOLOv5, this solution provides a balance between speed and accuracy, making it suitable for deployment in real-world applications.
-
 ## Real-Time Face Mask Detection using YOLOv5
 
 This repository contains the implementation of a real-time face mask detection system using the YOLOv5 model. The system is designed to detect and identify face masks in live video feeds or static images, providing a powerful tool for enhancing safety in various environments.
