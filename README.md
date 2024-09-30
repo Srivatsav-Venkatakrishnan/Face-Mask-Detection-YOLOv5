@@ -7,7 +7,7 @@ This repository contains the implementation of a real-time face mask detection s
 
 ## Dataset
 
-Here's the link to the dataset - [Insert your dataset link here]
+Here's the link to the dataset - https://www.kaggle.com/datasets/ialimustufa/object-detection-for-ppe-covid19-dataset
 
 | **Database**            | **Image** | **With Mask** | **Without Mask** |
 |-------------------------|-----------|---------------|------------------|
